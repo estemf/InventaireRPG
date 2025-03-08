@@ -5,9 +5,9 @@
 Créer une application Next.js en TypeScript qui simule l'inventaire d'un personnage de RPG.  
 Le projet permet de :  
 
-- **Afficher l'inventaire** avec la liste des objets.  
-- **Ajouter de nouveaux objets** via un formulaire.  
-- **Supprimer ou modifier un objet** existant.  
+- Afficher l'inventaire avec la liste des objets.  
+- Ajouter de nouveaux objets via un formulaire.  
+- Supprimer ou équiper un objet existant
 
 ## **Mise en place**  
 
