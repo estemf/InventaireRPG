@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Sword",
+    "type": "weapon",
+    "rarity": "common",
+    "description": "A basic iron sword, perfect for beginners.",
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "name": "Leather Armor",
+    "type": "armor",
+    "rarity": "rare",
+    "description": "Light armor that offers good protection.",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "Health Potion",
+    "type": "potion",
+    "rarity": "common",
+    "description": "Restores 50 health points.",
+    "quantity": 5
+  },
+  {
+    "id": 4,
+    "name": "Ancient Bow",
+    "type": "weapon",
+    "rarity": "epic",
+    "description": "A powerful bow made from ancient wood.",
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "name": "Steel Shield",
+    "type": "armor",
+    "rarity": "legendary",
+    "description": "A sturdy shield that can withstand any attack.",
+    "quantity": 1
+  }
+]
